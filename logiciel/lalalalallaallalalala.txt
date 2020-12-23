@@ -1,3 +1,0 @@
-ce txt n'a que pour seul et unique objectif, 
-de ne pas se faire ignorer par git :) Et donc permettre un push de 
-tous ces répertoires avant de les remplir :D
